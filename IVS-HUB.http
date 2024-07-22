@@ -1,0 +1,6 @@
+@IVS_HUB_HostAddress = http://localhost:5161
+
+GET {{IVS_HUB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
